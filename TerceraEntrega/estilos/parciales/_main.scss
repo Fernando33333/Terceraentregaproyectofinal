@@ -1,0 +1,34 @@
+main{
+    background-color: #274c77;
+
+
+&__container{
+     justify-content: space-between;
+}
+
+&__img{
+    height: 10rem;
+    width: 17.9rem;
+}
+
+&__col{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+&__cardtext{
+    height: 7.5rem;
+    background-color: #e7ecef;
+    color: #274c77;
+    padding: 0.5rem;
+}
+
+&__card{
+    margin: 3rem;
+}
+
+&__form{
+    padding: 8rem;
+}
+
+}
